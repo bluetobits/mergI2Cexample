@@ -1,5 +1,6 @@
 # I2CMaster with 2 slaves:  Robust data transfer
 
+Open the mergI2Cexample.ino in the Arduino IDE. The other files are included in the tabs. 
 The attached code contains 3 .ino files. One for the master and two for the slaves.   
 This is the example code for the MersAG meeting
 
